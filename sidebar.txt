@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wkd:home|Door43 (wkd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wkd|d43-wkd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wkd/archive/master.zip|d43-wkd.zip]]
+
+**Recent Changes**
+{{changes>ns = wkd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wkd|Ethnologue data]]
+
